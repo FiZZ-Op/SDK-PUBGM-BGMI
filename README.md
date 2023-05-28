@@ -1,6 +1,8 @@
 <p align="center">
-# SDK-PUBGM/BGMI
+SDK-PUBGM/BGMI
 </p>
+
+<h1 align="center">SDK-PUBGM/BGMI</h1>
 
 # PUBGM
 
