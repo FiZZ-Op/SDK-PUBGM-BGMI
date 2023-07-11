@@ -1,4 +1,4 @@
-<h1 align="center">PUBGM 2.5</h1>
+<h1 align="center">PUBGM 2.7</h1>
 
 # Offsets
 
