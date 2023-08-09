@@ -3,9 +3,9 @@
 # Offsets
 
 ```
-Gworld        : 
-Gname         : 
-ViewWorld     : 
-GuObjectArray : 
+Gworld        : 0x876185C
+Gname         : 0x8435468
+ViewWorld     : 0x8745720
+GuObjectArray : 0x85E4FF0
 
 ```
