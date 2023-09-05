@@ -9,6 +9,7 @@
 [PUBGM-2.5](https://github.com/FiZZ-Op/SDK-PUBG/tree/2.5-GLOBAL-VNG-TW-KR) <br />
 [PUBGM-2.6](https://github.com/FiZZ-Op/SDK-PUBG/tree/2.6-GLOBAL-VNG-TW-KR) <br />
 [PUBGM-2.7](https://github.com/FiZZ-Op/SDK-PUBGM-BGMI/tree/2.7-PUBGM) <br />
+[PUBGM-2.8](https://github.com/FiZZ-Op/SDK-PUBGM-BGMI/tree/2.8-PUBGM) <br />
 
 
 # BGMI
