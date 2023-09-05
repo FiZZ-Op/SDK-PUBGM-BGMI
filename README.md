@@ -1,17 +1,11 @@
-<h1 align="center">SDK-PUBGM/BGMI</h1>
+<h1 align="center">PUBGM 2.8</h1>
 
-# PUBGM
+# Offsets
 
-[PUBGM-2.1](https://github.com/FiZZ-Op/SDK-PUBG/tree/2.1) <br />
-[PUBGM-2.2](https://github.com/FiZZ-Op/SDK-PUBG/tree/2.2) <br />
-[PUBGM-2.3](https://github.com/FiZZ-Op/SDK-PUBG/tree/2.3) <br />
-[PUBGM-2.4](https://github.com/FiZZ-Op/SDK-PUBG/tree/2.4) <br />
-[PUBGM-2.5](https://github.com/FiZZ-Op/SDK-PUBG/tree/2.5-GLOBAL-VNG-TW-KR) <br />
-[PUBGM-2.6](https://github.com/FiZZ-Op/SDK-PUBG/tree/2.6-GLOBAL-VNG-TW-KR) <br />
-[PUBGM-2.7](https://github.com/FiZZ-Op/SDK-PUBGM-BGMI/tree/2.7-PUBGM) <br />
+```
+Gworld        : 0x8E4DFBC
+Gname         : 0x8B30624
+ViewWorld     : 0x8E31D50
+GuObjectArray : 0x85E4FF0
 
-
-# BGMI
-
-[BGMI-2.5](https://github.com/FiZZ-Op/SDK-PUBG/tree/2.5-BGMI) <br />
-[BGMI-2.7](https://github.com/FiZZ-Op/SDK-PUBGM-BGMI/tree/BGMI-2.7) <br />
+```
