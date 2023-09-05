@@ -6,6 +6,6 @@
 Gworld        : 0x8E4DFBC
 Gname         : 0x8B30624
 ViewWorld     : 0x8E31D50
-GuObjectArray : 0x85E4FF0
+GuObjectArray : 0x8CD0600
 
 ```
