@@ -16,3 +16,4 @@
 
 [BGMI-2.5](https://github.com/FiZZ-Op/SDK-PUBG/tree/2.5-BGMI) <br />
 [BGMI-2.7](https://github.com/FiZZ-Op/SDK-PUBGM-BGMI/tree/BGMI-2.7) <br />
+[BGMI-2.8](https://github.com/FiZZ-Op/SDK-PUBGM-BGMI/tree/BGMI-2.8) <br />
