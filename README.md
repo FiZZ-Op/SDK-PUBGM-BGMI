@@ -3,20 +3,18 @@
 # Offsets Global
 
 ```
-Gworld        : 0x93FAEF8
-Gname         : 0x8EAC4A4
-ViewWorld     : 0x93DF66C
-GuObjectArray : 0x9283A70
+Gworld        : 0x96F9E6C
+Gname         : 0x91C8DA4
+ViewWorld     : 0x96DE84C
 
 ```
 
 # Offsets VNG
 
 ```
-Gworld        : 0x93FAEF8
-Gname         : 0x8EAC4A4
-ViewWorld     : 0x93DF66C
-GuObjectArray : 0x9283A70
+Gworld        : 0x8E66AB4
+Gname         : 0x8942CA4
+ViewWorld     : 0x8E4DFE0
 
 ```
 
