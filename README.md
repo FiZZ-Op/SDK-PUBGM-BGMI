@@ -1,11 +1,11 @@
-<h1 align="center">PUBGM 3.1</h1>
+<h1 align="center">BGMI 3.2</h1>
 
 # Offsets
 
 ```
-Gworld        : 0x93FAEF8
-Gname         : 0x8EAC4A4
-ViewWorld     : 0x93DF66C
-GuObjectArray : 0x9283A70
+Gworld        : 0x907F6EC
+Gname         : 0x4735700
+ViewWorld     : 0x90640CC
+GuObjectArray : 0x8F07E14
 
 ```
