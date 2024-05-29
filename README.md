@@ -24,3 +24,4 @@
 [BGMI-2.9](https://github.com/FiZZ-Op/SDK-PUBGM-BGMI/tree/BGMI-2.9) <br />
 [BGMI-3.0](https://github.com/FiZZ-Op/SDK-PUBGM-BGMI/tree/BGMI-3.0) <br />
 [BGMI-3.1](https://github.com/FiZZ-Op/SDK-PUBGM-BGMI/tree/BGMI-3.1) <br />
+[BGMI-3.2](https://github.com/FiZZ-Op/SDK-PUBGM-BGMI/tree/BGMI-3.2) <br />
