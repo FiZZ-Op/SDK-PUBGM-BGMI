@@ -4,7 +4,7 @@
 
 ```
 Gworld        : 0x907F6EC
-Gname         : 0x4735700
+Gname         : 0x8B4DC24
 ViewWorld     : 0x90640CC
 GuObjectArray : 0x8F07E14
 
