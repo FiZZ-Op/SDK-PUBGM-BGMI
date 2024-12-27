@@ -16,7 +16,7 @@
 [PUBGM-3.2](https://github.com/FiZZ-Op/SDK-PUBGM-BGMI/tree/3.2-PUBGM) <br />
 [PUBGM-3.3](https://github.com/FiZZ-Op/SDK-PUBGM-BGMI/tree/3.3-PUBGM) <br />
 [PUBGM-3.4](https://github.com/FiZZ-Op/SDK-PUBGM-BGMI/tree/3.4-PUBGM) <br />
-
+[PUBGM-3.5](https://github.com/FiZZ-Op/SDK-PUBGM-BGMI/tree/3.5-PUBGM) <br />
 
 # BGMI
 
